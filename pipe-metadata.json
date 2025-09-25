@@ -1,0 +1,24 @@
+{
+  "name": "Pipe",
+  "symbol": "PIPE",
+  "decimals": 9,
+  "description": "Pipe Network token — powering the world's largest decentralized CDN and edge supercloud.",
+  "image": "https://raw.githubusercontent.com/PipeNetwork/metadata/main/pipe.png",
+  "external_url": "https://pipe.network",
+  "tags": ["CDN", "DePIN", "Storage", "AI", "Edge-Compute"],
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/PipeNetwork/metadata/main/pipe.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {
+    "twitter": "https://x.com/PipeNetwork",
+    "github": "https://github.com/PipeNetwork",
+    "description": "Pipe Network is a decentralized edge supercloud combining CDN, storage, and AI inference into a global permissionless infrastructure. PIPE is the utility token used for bandwidth, storage, and compute credits, with cryptographic usage proofs and burn-to-credit economics."
+  }
+}
