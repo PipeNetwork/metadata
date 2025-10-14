@@ -1,0 +1,43 @@
+{
+  "name": "LovePIPE",
+  "symbol": "LovePIPE",
+  "description": "LovePIPE is the vault receipt token for PIPE staked in the tiered unstaking vault. Holders earn staking rewards and can withdraw with flexible timeframes (7/14/21/30 days) based on amount, or use emergency exit for instant liquidity.",
+  "image": "https://raw.githubusercontent.com/PipeNetwork/metadata/main/pipe.png",
+  "external_url": "https://pipe.network",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Vault Receipt Token"
+    },
+    {
+      "trait_type": "Underlying Asset",
+      "value": "PIPE"
+    },
+    {
+      "trait_type": "Backing",
+      "value": "1:1"
+    },
+    {
+      "trait_type": "Reward Commission",
+      "value": "7%"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    },
+    {
+      "trait_type": "Vault Type",
+      "value": "Tiered Unstaking"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/PipeNetwork/metadata/main/pipe.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "token",
+    "creators": []
+  }
+}
